@@ -6,6 +6,6 @@ public class App {
         Greeter greeter = new Greeter();
         String msg = greeter.greet("App");
         System.out.println(msg);
-
+        System.out.println("Add a println");
     }
 }
